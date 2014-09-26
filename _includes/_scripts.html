@@ -18,6 +18,6 @@
   })();
 </script>
 {% endif %}
-{% if page.comments %}
-  {% include _disqus_comments.html %}
+{% if page.comments == true %}
+  {% include _disqus-comments.html %}
 {% endif %}
