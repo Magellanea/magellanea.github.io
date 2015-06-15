@@ -4,7 +4,6 @@ title:            Magellanea
 locale:           en_US
 url:              http://magellanea.github.io
 
-
 # Jekyll configuration
 
 permalink:   /:categories/:title/
